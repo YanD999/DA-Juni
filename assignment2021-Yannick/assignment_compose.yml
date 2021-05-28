@@ -13,7 +13,7 @@ services:
     image: mysql:5.7
     restart: always
     environment:
-      MYSQL_DATABASE: 'elixir'
+      MYSQL_DATABASE: 'assignmnent_crypto'
       MYSQL_USER: 'root'
       MYSQL_PASSWORD: 't'
       MYSQL_ROOT_PASSWORD: 't'
